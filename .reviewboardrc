@@ -1,2 +1,2 @@
 REVIEWBOARD_URL = 'http://localhost:8080/'
-REPOSITORY = 'gradle-repo'
+REPOSITORY = 'testing-gradle'
